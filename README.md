@@ -1,3 +1,4 @@
+This is my personal blog hosted using the jekyll theme template, Notepad, designed by Hossain Mohd. Faysal
 Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
   
 Main Features:
@@ -19,9 +20,3 @@ Credits:
 * Background check [http://kennethcachia.com/background-check](http://kennethcachia.com/background-check)
 * Codrops article: [http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/](http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/)
 * There are also tools like jQuery, Modernizr, Normalize.
-
-If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](https://twitter.com/hmfaysal), that would be pretty sweet.
-
-
-Warm Regards and Stay Creative,  
-Hossain Mohd. Faysal
